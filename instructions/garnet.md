@@ -50,7 +50,7 @@ fastboot reboot recovery
 ```
 - Sideload ROM zip
 ```
-adb sideload PixelOS*.zip
+adb sideload AxionOS*.zip
 ```
 - Format data after sideload
 - Reboot and voila!
