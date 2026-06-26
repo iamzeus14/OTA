@@ -1,12 +1,13 @@
 {
-  "response": [
-    {
-      "datetime": 1779373009,
-      "filename": "axion-2.6-QUASIS-20260521-UNOFFICIAL-VANILLA-garnet.zip",
-      "id": "affd805fb7fd8c047e6b90bf1785bf7",
-      "size": 2148269998,
-      "url": "https://cdn.axionos.org/gamet/axion-2.6-QUASIS-20260521-UNOFFICIAL-VANILLA-garnet.zip",
-      "version": "2.6"
-    }
-  ]
+    "response": [
+        {
+            "datetime": 1782497994,
+            "filename": "axion-2.7-PROXIMA_BETA-20260626-UNOFFICIAL-GMS-garnet.zip",
+            "id": "bc34a1a68984513c4b6f8766b68dd452",
+            "romtype": "UNOFFICIAL",
+            "size": 2543180364,
+            "url": "https://cdn.axionos.org/garnet/axion-2.7-PROXIMA_BETA-20260626-UNOFFICIAL-GMS-garnet.zip",
+            "version": "2.7"
+        }
+    ]
 }
