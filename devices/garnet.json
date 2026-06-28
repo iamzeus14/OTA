@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": 1782497994,
-            "filename": "axion-2.7-PROXIMA_BETA-20260626-UNOFFICIAL-GMS-garnet.zip",
-            "id": "bc34a1a68984513c4b6f8766b68dd452",
+            "datetime": 1782620034,
+            "filename": "axion-2.7-PROXIMA_BETA-20260628-UNOFFICIAL-GMS-garnet.zip",
+            "id": "e4948d5ce8fd90dc04242381b9b0312f",
             "romtype": "UNOFFICIAL",
-            "size": 2543180364,
-            "url": "https://cdn.axionos.org/garnet/axion-2.7-PROXIMA_BETA-20260626-UNOFFICIAL-GMS-garnet.zip",
+            "size": 2543149806,
+            "url": "https://cdn.axionos.org/garnet/axion-2.7-PROXIMA_BETA-20260628-UNOFFICIAL-GMS-garnet.zip",
             "version": "2.7"
         }
     ]
